@@ -1,0 +1,12 @@
+:root {
+  --default-font: 'SF Mono', Inconsolata, Menlo, Monaco, 'Courier New', monospace !important;
+  --font-monospace: 'SF Mono', Inconsolata, Menlo, Monaco, 'Courier New', monospace !important;
+}
+
+.markdown-source-view .cm-editor .cm-scroller {
+  font-family: 'SF Mono', Inconsolata, Menlo, Monaco, 'Courier New', monospace !important;
+}
+
+html body {
+  font-family: 'SF Mono', Inconsolata, Menlo, Monaco, 'Courier New', monospace !important;
+}

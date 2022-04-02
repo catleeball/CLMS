@@ -1,0 +1,121 @@
+{
+  "main": {
+    "id": "18d618edf494df72",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ecb4581e62083d2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Placement Exam/Study Resources.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "c13bc32b54214927",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Placement Exam/Exam Info.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "35ab802719598177",
+    "type": "split",
+    "children": [
+      {
+        "id": "20f56f78b9c213f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75f142cb157a08e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5b7fa8d70dde8efb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "11d1c13c77960620",
+    "type": "split",
+    "children": [
+      {
+        "id": "802e68f538a97b64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8893161e33d3c7d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Placement Exam/Exam Info.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0a64f2819f59f7cd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c13bc32b54214927",
+  "lastOpenFiles": [
+    "Placement Exam/Exam Info.md",
+    "Placement Exam/Study Resources.md",
+    "Textbooks/Lipschutz Intro to Probability and Stats.pdf",
+    "Textbooks/John E. Hopcroft_ Rajeev Motwani_ Jeffrey D. Ullman - Introduction to Automata Theory, Languages, and Computation-Prentice Hall (2006).pdf"
+  ]
+}
