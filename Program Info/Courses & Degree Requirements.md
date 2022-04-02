@@ -16,6 +16,8 @@ See also [compling course info page](https://www.compling.uw.edu/academic-experi
 
 - [LING 550: Introduction to Linguistic Phonetics](https://www.compling.uw.edu/academic-experience/courses/course-descriptions#550)
 	- [MyPlan link](https://myplan.uw.edu/course/#/courses/LING550)
+	- [Course website](https://courses.washington.edu/lingclas/450/)
+	- [Course Canvas syllabus](https://canvas.uw.edu/courses/883006/assignments/syllabus)
 	- 5 credits
 	- This course provides an introduction to the articulatory and acoustic correlates of phonological features. Issues covered include the mapping of dynamic events to static representations, phonetic evidence for phonological description, universal constraints on phonological structure and implications of psychological speech-sound categorization for phonological theory.
 	- Prerequisites: [LING 200: Introduction to Linguistic Thought](http://www.washington.edu/students/crscat/ling.html#ling200) or [LING 400: Survey of Linguistic Method & Theory](http://www.washington.edu/students/crscat/ling.html#ling400)

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Program Info/Courses & Degree Requirements.md",
+            "file": "LING 550/Syllabus.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "11d1c13c77960620",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Program Info/Courses & Degree Requirements.md",
+                "file": "LING 550/Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +100,7 @@
   },
   "active": "8248ac1a652f3431",
   "lastOpenFiles": [
+    "LING 550/Syllabus.md",
     "Program Info/Courses & Degree Requirements.md",
     "Placement Exam/Exam Info.md",
     "Placement Exam/Study Resources.md",
