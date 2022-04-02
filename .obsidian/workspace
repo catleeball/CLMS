@@ -4,18 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "c13bc32b54214927",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Placement Exam/Exam Info.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "8248ac1a652f3431",
         "type": "leaf",
         "state": {
