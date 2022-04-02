@@ -3,5 +3,6 @@
   "translucency": true,
   "enabledCssSnippets": [
     "fonts"
-  ]
+  ],
+  "theme": "moonstone"
 }

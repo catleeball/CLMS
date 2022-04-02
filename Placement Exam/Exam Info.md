@@ -21,4 +21,4 @@
 - You have passed the test and met the prerequisite for the LING 570 series.
 - You are missing only a small amount of background information, which we think you can make up with self-study.
 - You have done reasonably well but miss certain knowledge required for the series, and should take the summer refresher course that starts in July.
-- You are missing some crucial pieces that are essential for the series, and should take prerequisite courses such as CSE 373 (Data structures and algorithms) and MATH/STAT 394 (**Probability ).**
+- You are missing some crucial pieces that are essential for the series, and should take prerequisite courses such as CSE 373 (Data structures and algorithms) and MATH/STAT 394 (Probability).

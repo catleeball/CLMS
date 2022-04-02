@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Placement Exam/Study Resources.md",
+            "file": "Program Info/Courses & Degree Requirements.md",
             "mode": "source",
             "source": false
           }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Placement Exam/Exam Info.md",
+                "file": "Program Info/Courses & Degree Requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,8 +111,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c13bc32b54214927",
+  "active": "8248ac1a652f3431",
   "lastOpenFiles": [
+    "Program Info/Courses & Degree Requirements.md",
     "Placement Exam/Exam Info.md",
     "Placement Exam/Study Resources.md",
     "Textbooks/William O'Grady, John Archibald, Mark Aronoff, Janie Rees-Miller - Contemporary Linguistics_ An Introduction-Bedford_St. Martin's (2017).pdf",
