@@ -35,3 +35,6 @@
 	- Authors: Wasow and Bender
 	- Ref: ch 1-2
 	- [[Ivan A. Sag_ Thomas Wasow_ Emily M. Bender - Syntactic Theory_ A Formal Introduction-Center for the Study of Language and Information (2003).pdf|PDF]]
+
+## Misc
+- http://bio5495.wustl.edu/Probability/Readings/

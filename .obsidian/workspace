@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0ecb4581e62083d2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Placement Exam/Study Resources.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "c13bc32b54214927",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Placement Exam/Exam Info.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "8248ac1a652f3431",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Placement Exam/Study Resources.md",
             "mode": "source",
             "source": false
           }
@@ -115,6 +115,7 @@
   "lastOpenFiles": [
     "Placement Exam/Exam Info.md",
     "Placement Exam/Study Resources.md",
+    "Textbooks/William O'Grady, John Archibald, Mark Aronoff, Janie Rees-Miller - Contemporary Linguistics_ An Introduction-Bedford_St. Martin's (2017).pdf",
     "Textbooks/Lipschutz Intro to Probability and Stats.pdf",
     "Textbooks/John E. Hopcroft_ Rajeev Motwani_ Jeffrey D. Ullman - Introduction to Automata Theory, Languages, and Computation-Prentice Hall (2006).pdf"
   ]
