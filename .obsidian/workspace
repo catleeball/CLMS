@@ -7,12 +7,8 @@
         "id": "8043489b4323442c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Placement Exam/Notes/Notes_Prob_Stats_Eng_Sci.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -53,8 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 494,
-    "collapsed": true
+    "width": 494
   },
   "right": {
     "id": "11d1c13c77960620",
@@ -70,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Placement Exam/Notes/Notes_Prob_Stats_Eng_Sci.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +95,8 @@
   },
   "active": "8043489b4323442c",
   "lastOpenFiles": [
+    "Untitled.md",
+    "README.md",
     "Placement Exam/Notes/Notes_Prob_Stats_Eng_Sci.md",
     "Placement Exam/Study Resources.md",
     "Placement Exam/Exam Info.md",
@@ -108,8 +104,6 @@
     "Textbooks/Introduction_to_Automata_Theory_Languages_and_Computation__Hopcroft_Ullman.pdf",
     "Lipschutz Intro to Probability and Stats.pdf.md",
     "Program Info/Courses & Degree Requirements.md",
-    "LING 550/Syllabus.md",
-    "Textbooks/William O'Grady, John Archibald, Mark Aronoff, Janie Rees-Miller - Contemporary Linguistics_ An Introduction-Bedford_St. Martin's (2017).pdf",
-    "Textbooks/Lipschutz Intro to Probability and Stats.pdf"
+    "LING 550/Syllabus.md"
   ]
 }

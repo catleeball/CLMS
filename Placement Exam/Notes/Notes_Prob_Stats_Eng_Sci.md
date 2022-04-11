@@ -93,3 +93,5 @@ Inferring on future from samples may have problems, likely needs a domain expert
 > 
 > “Assumptions for Statistical Inference” by Gerald Hahn and William Meeker (The American Statistician, 1993: 1–11).
 
+##### Pg.10
+
