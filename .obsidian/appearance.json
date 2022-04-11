@@ -1,6 +1,6 @@
 {
   "baseFontSize": 16,
-  "translucency": true,
+  "translucency": false,
   "enabledCssSnippets": [
     "fonts"
   ],

@@ -9,19 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Placement Exam/Exam Info.md",
+            "file": "Placement Exam/Study Resources.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "68679d918d5b6f0f",
+        "id": "8043489b4323442c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Placement Exam/Study Resources.md",
+            "file": "Placement Exam/Exam Info.md",
             "mode": "source",
             "source": false
           }
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 494,
     "collapsed": true
   },
   "right": {
@@ -111,12 +111,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "68679d918d5b6f0f",
+  "active": "8248ac1a652f3431",
   "lastOpenFiles": [
     "Placement Exam/Study Resources.md",
+    "Textbooks/Introduction_to_Automata_Theory_Languages_and_Computation__Hopcroft_Ullman.pdf",
     "Placement Exam/Exam Info.md",
-    "LING 550/Syllabus.md",
+    "Lipschutz Intro to Probability and Stats.pdf.md",
     "Program Info/Courses & Degree Requirements.md",
+    "LING 550/Syllabus.md",
     "Textbooks/William O'Grady, John Archibald, Mark Aronoff, Janie Rees-Miller - Contemporary Linguistics_ An Introduction-Bedford_St. Martin's (2017).pdf",
     "Textbooks/Lipschutz Intro to Probability and Stats.pdf",
     "Textbooks/John E. Hopcroft_ Rajeev Motwani_ Jeffrey D. Ullman - Introduction to Automata Theory, Languages, and Computation-Prentice Hall (2006).pdf"
