@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8248ac1a652f3431",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Placement Exam/Study Resources.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "8043489b4323442c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Placement Exam/Exam Info.md",
+            "file": "Placement Exam/Notes/Notes_Prob_Stats_Eng_Sci.md",
             "mode": "source",
             "source": false
           }
@@ -82,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Placement Exam/Study Resources.md",
+                "file": "Placement Exam/Notes/Notes_Prob_Stats_Eng_Sci.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,16 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8248ac1a652f3431",
+  "active": "8043489b4323442c",
   "lastOpenFiles": [
+    "Placement Exam/Notes/Notes_Prob_Stats_Eng_Sci.md",
     "Placement Exam/Study Resources.md",
-    "Textbooks/Introduction_to_Automata_Theory_Languages_and_Computation__Hopcroft_Ullman.pdf",
     "Placement Exam/Exam Info.md",
+    "Textbooks/Probability_and_Statistics__DeGroot_4e.pdf",
+    "Textbooks/Introduction_to_Automata_Theory_Languages_and_Computation__Hopcroft_Ullman.pdf",
     "Lipschutz Intro to Probability and Stats.pdf.md",
     "Program Info/Courses & Degree Requirements.md",
     "LING 550/Syllabus.md",
     "Textbooks/William O'Grady, John Archibald, Mark Aronoff, Janie Rees-Miller - Contemporary Linguistics_ An Introduction-Bedford_St. Martin's (2017).pdf",
-    "Textbooks/Lipschutz Intro to Probability and Stats.pdf",
-    "Textbooks/John E. Hopcroft_ Rajeev Motwani_ Jeffrey D. Ullman - Introduction to Automata Theory, Languages, and Computation-Prentice Hall (2006).pdf"
+    "Textbooks/Lipschutz Intro to Probability and Stats.pdf"
   ]
 }

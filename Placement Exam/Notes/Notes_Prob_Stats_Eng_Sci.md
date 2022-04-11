@@ -49,9 +49,47 @@ Notes for Devore's [[Probability_and_Statistics_for_Engineering_and_the_Sciences
 
 **Statistics**: Characteristics of population are available, allows experimenter to draw conclusions about population.
 
-*"Inferential statistics reasons from sample to population (inductive reasoning)"*
+"Inferential statistics reasons from sample to population (inductive reasoning)"*
 
-> *"Before we can understand what a particular sample can tell us about the population, we should first understand the uncertainty associated with taking a sample from a given population. This is why we study probability before statistics."*
+"Before we can understand what a particular sample can tell us about the population, we should first understand the uncertainty associated with taking a sample from a given population. This is why we study probability before statistics."
+
+*Ex 1.3*:
+
+Probability: Ask "what percent drivers in X city wear seatbelt?", then sample 100 drivers
+
+Inferential stats has sample info available already, e.g. a sample of 100 drivers in city X show that 65 use seatbelt; we then ask "Does this provide evidence that >50% of all drivers in this area wear seatbelts?"
+
+Latter scenario, using sample info to answer question about the whole population from the given sample.
+
+##### *Pg.7*
+
+**Conceptual population / Hypothetical population**: Population consisting of all possible variables under given conditions.
+
+##### *Pg.9*
+
+W.E. Demming: influential American statistician introduced ***Enumerative Studies*** and ***Analytic Studies***
+
+***Enumerative Studies***: Study focused on a finite, identifiable, unchanging collection of individuals forming a population
+
+The ***Sampling frame*** *(list of individuals to be sampled)* is available to experimenter.
+
+> e.g. all signatures on a petition. Sample is usually selected to determine if number of *valid* signatures exceeds a value
+
+***Analytic Studies***: Study not enumerative in nature.
+
+Often carried out to improve future thing by taking action on a process
+
+> e.g. recalibrate machinery for efficiency
+
+Data can only be obtained on an existing process that may significantly differ from the future process being formulated.
+
+No sampling frame
+
+> e.g. Five prototype turbines created to investigate efficiency. CAN be seen as conceptual population of all prototypes that can be manufactured under same/similar conditions, but NOT necessarily representative of those manufactured under other conditions (e.g. different production line creating non-prototype turbines)
+
+Inferring on future from samples may have problems, likely needs a domain expert to judge if extrapolation is reasonable
+
+> See also:
 > 
-> (Ex 1.3 proceeds from here)
+> “Assumptions for Statistical Inference” by Gerald Hahn and William Meeker (The American Statistician, 1993: 1–11).
 
