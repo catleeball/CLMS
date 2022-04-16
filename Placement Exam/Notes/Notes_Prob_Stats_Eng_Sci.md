@@ -131,10 +131,10 @@ Little frequency diagram with prefix and suffixes
 > e.g. Test scores 0 - 100; score 83 has stem 8 and leaf 3
 
 *Example 1.6, Fig 1.4 - Stem and Leaf diagram (screenshot)*
-![[Assets/Screenshots/stem-leaf-ex1.6.png]]
+![[Media/stem-leaf-ex1.6.png]]
 
 *Example 1.8, Fig 1.6 - Stem and Leaf diagram (screenshot)
-![[Assets/Screenshots/stem-leaf-ex1.8.png]]
+![[Media/stem-leaf-ex1.8.png]]
 
 
 ### Histograms
