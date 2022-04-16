@@ -3,9 +3,8 @@ Notes for Devore's [[Probability_and_Statistics_for_Engineering_and_the_Sciences
 -----
 
 # Chapter 1
-*Overview and Descriptive Statistics*
 
-## Ch 1.1
+## §1.1 - Overview and Descriptive Statistics
 
 ##### *Pg.3*
 
@@ -94,4 +93,80 @@ Inferring on future from samples may have problems, likely needs a domain expert
 > “Assumptions for Statistical Inference” by Gerald Hahn and William Meeker (The American Statistician, 1993: 1–11).
 
 ##### Pg.10
+
+*Collecting Data*
+
+Data collection important
+
+Common problem is target population may be different than sample population
+
+**Simple Random Sample**: easy way to try to get representative selection
+
+**Stratified Sampling**: separate population into overlapping groups, pick sample from each group
+
+**"Convenience" sample**: grab whichever samples are easy to get. this is usually bad
+
+### §1.1 - Exercises
+##### Pg.12
+Questions 1-9
+TODO
+
+## §1.2 - Pictorial and Tabular Methods in Descriptive Statistics
+
+*pg.13 - 14*
+
+Descriptive stats divided into 2 subject areas:
+- (1.2) Represent data set w visual displays
+- (1.3-1.4) Numerical summary measures
+
+### Notation
+- **Sample Size**: *n, m* (sometimes with subscripts)
+- Data set of *n* observations donated by  *x₁, x₂, x₃,..., xₙ*
+	- *i*th observation denoted x subscript i
+
+### Stem and Leaf Displays
+
+Little frequency diagram with prefix and suffixes
+
+> e.g. Test scores 0 - 100; score 83 has stem 8 and leaf 3
+
+*Example 1.6, Fig 1.4 - Stem and Leaf diagram (screenshot)*
+![[stem-leaf-ex1.6.png]]
+
+*Example 1.8, Fig 1.6 - Stem and Leaf diagram (screenshot)
+![[stem-leaf-ex1.8.png]]
+
+
+### Histograms
+*pg.16*
+
+Histograms differ if numeric data is obtained by counting to determine value of variable, or if data is obtained by taking measurements.
+
+
+>***Vocab***
+> 
+**Discrete**: numeric variable whose set of possible values is finite or can be listed as in infinite sequence.
+>
+**Continuous**: numeric variable whose values consist of an interval on a number line.
+
+A discrete variable *x* is almost always from counting, usually a subset of positive integers
+
+Continuous variables are from measurements
+
+> ***Vocab***
+> 
+> **Frequency**: number of times value *x* occurs in a data set
+>
+> **Relative Frequency:** fraction/proportion of times value occurs
+
+***Relative frequency formula***
+
+```
+                           number of times value occurs
+relative frequency  =   ----------------------------------
+                        number of observations in data set
+```
+
+- theoretically, relative frequencies of all items in set should sum to 1, but can vary slightly with rounding.
+- multiply relative frequency by 100 for a percent
 

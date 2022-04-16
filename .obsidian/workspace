@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8043489b4323442c",
+        "id": "7c603e02b4a5cc17",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Placement Exam/Notes/Notes_Prob_Stats_Eng_Sci.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -49,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 494
+    "width": 345,
+    "collapsed": true
   },
   "right": {
     "id": "11d1c13c77960620",
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Placement Exam/Notes/Notes_Prob_Stats_Eng_Sci.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,11 +99,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8043489b4323442c",
+  "active": "7c603e02b4a5cc17",
   "lastOpenFiles": [
-    "Untitled.md",
-    "README.md",
     "Placement Exam/Notes/Notes_Prob_Stats_Eng_Sci.md",
+    "LICENSE.md",
+    "README.md",
     "Placement Exam/Study Resources.md",
     "Placement Exam/Exam Info.md",
     "Textbooks/Probability_and_Statistics__DeGroot_4e.pdf",
