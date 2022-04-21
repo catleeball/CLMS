@@ -5,5 +5,9 @@
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Assets",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true
 }

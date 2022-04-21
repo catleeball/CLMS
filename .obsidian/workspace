@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "7c603e02b4a5cc17",
+        "id": "52d9ceca9993d162",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345,
-    "collapsed": true
+    "width": 556
   },
   "right": {
     "id": "11d1c13c77960620",
@@ -99,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7c603e02b4a5cc17",
+  "active": "52d9ceca9993d162",
   "lastOpenFiles": [
     "Placement Exam/Notes/Notes_Prob_Stats_Eng_Sci.md",
+    "Assets/stem-leaf-ex1.6.png",
+    "Assets/stem-leaf-ex1.8.png",
     "LICENSE.md",
     "README.md",
     "Placement Exam/Study Resources.md",
     "Placement Exam/Exam Info.md",
     "Textbooks/Probability_and_Statistics__DeGroot_4e.pdf",
     "Textbooks/Introduction_to_Automata_Theory_Languages_and_Computation__Hopcroft_Ullman.pdf",
-    "Lipschutz Intro to Probability and Stats.pdf.md",
-    "Program Info/Courses & Degree Requirements.md",
-    "LING 550/Syllabus.md"
+    "Lipschutz Intro to Probability and Stats.pdf.md"
   ]
 }

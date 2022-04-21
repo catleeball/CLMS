@@ -131,10 +131,10 @@ Little frequency diagram with prefix and suffixes
 > e.g. Test scores 0 - 100; score 83 has stem 8 and leaf 3
 
 *Example 1.6, Fig 1.4 - Stem and Leaf diagram (screenshot)*
-![[Media/stem-leaf-ex1.6.png]]
+![stem-leaf-ex1.6](../../Assets/stem-leaf-ex1.6.png)
 
 *Example 1.8, Fig 1.6 - Stem and Leaf diagram (screenshot)
-![[Media/stem-leaf-ex1.8.png]]
+![[../../Assets/stem-leaf-ex1.8.png]]
 
 
 ### Histograms
@@ -159,7 +159,7 @@ Continuous variables are from measurements
 >
 > **Relative Frequency:** fraction/proportion of times value occurs
 
-***Relative frequency formula***
+#### Relative frequency formula
 
 ```
                            number of times value occurs
@@ -169,4 +169,53 @@ relative frequency  =   ----------------------------------
 
 - theoretically, relative frequencies of all items in set should sum to 1, but can vary slightly with rounding.
 - multiply relative frequency by 100 for a percent
+
+
+#### Histogram for Discrete Data
+
+- Determine freq and rel freq for each *x*
+- X axis is frequency
+- Y axis relative frequency
+
+#### Histogram Examples
+*Table 1.1, Fig 1.7 (Screenshot)*
+![table1.1](../../Assets/table1.1.png)
+![fig.1.7](../../Assets/fig.1.7.png)
+
+#### Histograms for Continuous Data
+
+##### Equal Class Widths
+- Determine freq and rel freq for each class
+- Class boundaries on X axis
+- Intervals on Y axis
+ 
+##### Unequal Class Widths
+- Each bar height is:
+```
+             rel freq of class
+bar height = -----------------
+                class width
+```
+- Note: area of each bar is the relative freq of the corresponding class
+- Sum of rel freqs = 1; total area of all bars = 1
+
+#### Histogram Shapes
+
+- **Unimodal** histogram rises to a single peak and declines
+- **Bimodal** has two peaks
+- **Multimodal** ya know
+
+- **Symmetric**: same on both sides of histogram
+- **Positive skew**: right / upper tail is stretched further than left / lower tail
+	- lump on left, long slope down from lump to the right
+- **Negative skew**: opposite
+	- lump on right, long slope leading up to lump
+
+## §1.3 - Measures of Location
+
+### Mean
+
+aka *arithmetic mean*, aka *average*, aka *sample mean* when it's for the sample
+
+![sample_mean](../../Assets/sample_mean.png)
 
